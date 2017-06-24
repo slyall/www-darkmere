@@ -5,11 +5,22 @@
     <link>http://www.darkmere.gen.nz/</link>
     <description>Recent content on Darkmere Private Access Internet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>(c) 2015 yourname.</copyright>
+    <language>en-EN</language>
+    <copyright>(c) 2017 Simon Lyall</copyright>
+    <lastBuildDate>Thu, 01 Jan 1970 12:33:23 +1200</lastBuildDate>
     
 	<atom:link href="http://www.darkmere.gen.nz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bladestroller Quotes</title>
+      <link>http://www.darkmere.gen.nz/bladestroller/</link>
+      <pubDate>Thu, 01 Jan 1970 12:33:23 +1200</pubDate>
+      
+      <guid>http://www.darkmere.gen.nz/bladestroller/</guid>
+      <description>In late 2002 Peter da Silva changed his Usenet signature to a parody of Blade Runner called Bladestroller:
+I&#39;ve seen things you people can&#39;t imagine. Chimneysweeps on fire over the roofs of London. I&#39;ve watched kite-strings glitter in the sun at Hyde Park Gate. All these things will be lost in time, like chalk-paintings in the rain. &#39;-_-&#39; Time for your nap. | Peter da Silva | Har du kramat din varg, idag?</description>
+    </item>
     
   </channel>
 </rss>

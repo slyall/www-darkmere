@@ -3,12 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.darkmere.gen.nz/bladestroller/</loc>
+    <lastmod>1970-01-01T12:33:23+12:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.darkmere.gen.nz/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.darkmere.gen.nz/</loc>
+    <lastmod>1970-01-01T12:33:23+12:00</lastmod>
     <priority>0</priority>
   </url>
   
