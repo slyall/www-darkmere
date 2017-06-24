@@ -1,7 +1,7 @@
 www.darkmere.gen.nz Website
 ===========================
 
-[Hugo](http://gohugo.io) based version of this website.
+[Hugo](http://gohugo.io) based version of this website. Currently using the [Hyde-y](https://themes.gohugo.io/hyde-y/) theme
 
 This to replace the shell-scipt based version I originally created in 1999(!). 
 
