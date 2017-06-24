@@ -1,4 +1,8 @@
-[s]
+[a]
     Name = "Bladestroller"
     URL = "/bladestroller"
+
+[b]
+    Name = "Domestic Blindness"
+    URL = "/domestic_blindness.html"
 
