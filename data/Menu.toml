@@ -1,12 +1,16 @@
 [a]
+    Name = "Unofficial Linux.conf.au Guide"
+    URL = "/linux.conf.au_guide"
+
+[c]
     Name = "Bladestroller"
     URL = "/bladestroller"
 
-[b]
+[d]
     Name = "Domestic Blindness"
     URL = "/domestic_blindness.html"
 
-[c]
+[b]
     Name = "ihug Engineering Alumni"
     URL = "/ihug_engineering"
 
