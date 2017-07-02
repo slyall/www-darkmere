@@ -1,20 +1,20 @@
 +++
 author="Simon Lyall"
 date=2017
-linktitle="(unofficial) Linux.conf.au Guide"
-title="The (unofficial) Linux.conf.au Guide"
+linktitle="(Unofficial) Linux.conf.au Guide"
+title="The (Unofficial) Linux.conf.au Guide"
 +++
 
 
 Please note this document is not an official publication of Linux Australia 
 or the Linux.conf.au Organisers. You should read the official website 
 first before reading this. This document is designed to cover everyone 
-from corporate "suits" and 17 year old smelly geek types, so while some 
+from corporate *suits* and 17 year old smelly geek types, so while some 
 of the advice seems obvious to you, it might not to others.
 
 Please email me with corrections.
 
-## What is new(ish) / different in 2017
+## What was new(ish) / different in 2017
 * No Swag Bag
 * Lunch is catered
 * Freeform text fields on the badge
@@ -68,8 +68,8 @@ get their travel subsidised, get to go to the speakers dinner, and have
 an extra symbol on their badge (see below about badges). As one former
 speaker said:
 
-> "LCA treat their speakers **much** better than other conferences,
-> and this is a large part of why so many interesting people keep coming back."
+> LCA treat their speakers **much** better than other conferences,
+> and this is a large part of why so many interesting people keep coming back.
 
 Have a look though the miniconfs nice and early for separate calls for
 presentations. The miniconfs usually do not or cannot publicise their CFPs
@@ -77,18 +77,17 @@ as widely as the main conference.
 
 ## What days to Attend
 
-In the last few years the conference has run from Monday morning to either Friday evening or early
-Saturday afternoon.
+In the last few years the conference has run from Monday morning to either Friday evening.
 
-In the programme the Monday and sometimes Tuesday are given over to Miniconfs 
+In the programme the Monday and Tuesday are given over to Miniconfs 
 which are themed streams covering things like Security, Kernel, Systems 
 Administration and Open Hardware.
 
-You should really attend at least Monday though Friday and potentially the Saturday
-as well. Many first timers make the mistake of skipping the Miniconfs and find
-they have missed out on half the conference. The whole week is filled with
-opportunities to make friends and learn interesting stuff, and there
-may also be lightning talks or 'best of conference' repeats on open day.
+You should really attend at least Monday though Friday. Many first timers
+make the mistake of skipping the Miniconfs and find they have missed out on
+half the conference. The whole week is filled with opportunities to make
+friends and learn interesting stuff, and there may also be lightning talks
+or 'best of conference' repeats on open day.
 
 To catch everything you should probably arrive during the day on Sunday 
 and leave on Saturday. This gives you time to get settled in on Sunday 
@@ -157,23 +156,16 @@ session plus an extra goody or two in your bag. Hobbyist and Concession
 registrations can pay an extra $60-100 to go to the penguin dinner. 
 You can also buy a ticket for a guest or two.
 
-4. The favourite shell, editor and "description" (something like "a 
-distortingly volatile type" or "a widely illegal expert") will appear 
-on your badge. See Badge below for details. 
-
-The description changes every time your reload the page or you can hack 
-the page to make it display what you want.
-
-5. Don't forget your T-shirt size and sign up for the attendees mailing 
+4. Don't forget your T-shirt size and sign up for the attendees mailing 
 list. It can get a little busy (perhaps 700 messages across the 
 whole week) but it can have some useful information, just filter the 
 messages into a separate folder for skimming when you have time.
 
-6. You should save and print out the registration summary in case there 
+5. You should save and print out the registration summary in case there 
 are problems later.
 
-7. Don't forget to pay, <i>your registration is not confirmed until you pay
-the required money.</i> Even if you register early you can miss out because the
+6. Don't forget to pay, **your registration is not confirmed until you pay
+the required money**. Even if you register early you can miss out because the
 conference fills up with others who have paid.
 
 
@@ -195,7 +187,7 @@ countries like the USA, most EU members and Japan. ETA's can be applied for
 online and cost just $20 Australian and take just a minute to obtain 
 online.
 
-See <a href="http://www.eta.immi.gov.au/index.html">the website</a> for
+See <a href="http://www.eta.immi.gov.au/">the Electronic Travel Authority website</a> for
 details and to apply for one. You must do this before you leave from your
 home country.
 
@@ -210,7 +202,7 @@ seperate immigration requirements.
 
 See <a href="http://www.immigration.govt.nz/migrant/stream/visit/">the NZ
 immigration website</a> for requirements to visit New Zealand, if the
-conference is being held there, or before or after the conference. 
+conference is being held there, or you want to visit before or after the conference. 
 
 ### Getting there
 
@@ -222,6 +214,9 @@ Note that it takes days rather than hours to drive between Australian state
 capitals and in the case of Tasmania (the site of LCA 2017) you need to fly
 or catch an ocean going ferry to the island.
 
+In most cases overseas vistors will fly into Sydney or Melbourne and from 
+there can fly to the city of the conference.
+
 ### What to Bring
 
 See below for dress. You can usually count on getting at least 1 or 
@@ -229,11 +224,11 @@ two additional T-shirts during the conference.
 
 Besides the usual travel stuff you might need:
 
-* Business cards (Company and/or personal).
 * Proof of age with photo (passport, drivers license etc), the drinking age in Australia is 18. 
 * Laptop (see below).
 * Pen and notepad.
 * Printout of registration confirmation
+* Business cards (Company and/or personal).
 * Phone numbers for the organisers and your accommodation.
 
 ## At the conference
@@ -276,19 +271,29 @@ your conference T-shirt (better each year) and badge. The size of this varies
 from year to year and has generally been decreasing of recent years as attendees
 have indicated they prefer the conference budget to be spent elsewhere.
 
-<a href="http://www.darkmere.gen.nz/photos/lca2008/lca08_badge.jpg"><img src="http://www.darkmere.gen.nz/photos/lca2008/thumbnail/lca08_badge.jpg"  WIDTH="404" HEIGHT="303" ALT="Badge image - click for larger size"/></a>
-
+![2017 Badge](/daniel_badge_2017.jpg "Badge from 2017")
 
 Your badge should be worn (on its lanyard) at all times in the 
-conference area. Besides the conference logo, your name, company, 
-description, shell and editor (see registration above) there are some 
-other symbols on the badge:
+conference area. 
 
-* A local map means you come from the area and visitors can ask you 
-questions like what to call a large glass of beer.
-* A "Y" (antenna) means your are a professional attendee
-* A "Fish" symbol with a number next to it is the total number of tickets to the penguin dinner you have.
-* Speakers usually get a different coloured badge outline.
+There are three main parts of the Badge. 
+
+The top search includes the conference logo and some other information used by
+the organisers:
+* You ticket type ( Professional, Speaker, Hobbyist, etc)
+* If you are 18 or older (and can drink alcohol at conference events)
+* A Penguin picture follow by the number of tickets to the Penguin dinner
+* A Microphone followed by the number of tickets to the Speaker's dinner
+* A Bar graph followed by the number of tickets to the Professional delegates networking session.
+
+The middle section has 4 lines, the first two can be partially customised.
+* You name in large letters
+* Your organisation or employer in medium sized letters
+* 2 lines of free-form text.
+
+The bottom section shows various sponsors and conference logos.
+
+A large gallery of [badges from 2017](https://www.flickr.com/photos/simonlyall/sets/72157677530378701) is online.
 
 ### Organisers
 
@@ -539,6 +544,8 @@ beer and food. Soft drinks and cheaper beers will be covered by their tab.
 
 The is the main diner and is a large sit down dinner held at a 
 nearby venue. Choice of food is usually limited, plus there will be special items for vegitarians etc. Here is a menu from 2007:
+
+![2007 Menu](/menu_2017.jpg "Menu from 2007")
 
 <a href="http://www.darkmere.gen.nz/photos/lca2007/P1190174.JPG"><img src="http://www.darkmere.gen.nz/photos/lca2007/medium/P1190174.JPG"  WIDTH="400" HEIGHT="300" ALT="Menu - click for larger size" ></a>
 
