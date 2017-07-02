@@ -11,7 +11,7 @@ first before reading this. This document is designed to cover everyone
 from corporate *suits* and 17 year old smelly geek types, so while some 
 of the advice seems obvious to you, it might not to others.
 
-Please email me with any suggested updates or submit a pull request to the [git rrepo for this site](https://github.com/slyall/www-darkmere)
+Please email me with any suggested updates or submit a pull request to the [git repo for this site](https://github.com/slyall/www-darkmere)
 
 Note: This document was preiously known as the *Linux.conf.au: First timers Guide*
 
