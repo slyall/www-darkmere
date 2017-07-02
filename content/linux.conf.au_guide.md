@@ -28,7 +28,7 @@ Note: This document was preiously known as the *Linux.conf.au: First timers Guid
 ## Introduction
 <a href="http://Linux.conf.au/">Linux.conf.au</a> (or LCA) is a large Linux orientation conference that 
 takes place in Australia each year, usually in late January. The next 
-LCA will take place in Hobart, Australia from the 16th to the 20th of January 2017. Around 500-800 people attend each year.
+LCA will take place in Sydney, Australia from the 22nd to the 26th of January 2018. Around 500-800 people attend each year.
 
 According to Wikipedia:
 
@@ -281,13 +281,15 @@ There are three main parts of the Badge.
 
 The top search includes the conference logo and some other information used by
 the organisers:
-* You ticket type ( Professional, Speaker, Hobbyist, etc)
+
+* Your ticket type ( Professional, Speaker, Hobbyist, etc)
 * If you are 18 or older (and can drink alcohol at conference events)
 * A Penguin picture follow by the number of tickets to the Penguin dinner
 * A Microphone followed by the number of tickets to the Speaker's dinner
 * A Bar graph followed by the number of tickets to the Professional delegates networking session.
 
 The middle section has 4 lines, the first two can be partially customised.
+
 * You name in large letters
 * Your organisation or employer in medium sized letters
 * 2 lines of free-form text.
