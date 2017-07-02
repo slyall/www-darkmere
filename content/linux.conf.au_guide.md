@@ -5,14 +5,15 @@ linktitle="(Unofficial) Linux.conf.au Guide"
 title="The (Unofficial) Linux.conf.au Guide"
 +++
 
-
 Please note this document is not an official publication of Linux Australia 
 or the Linux.conf.au Organisers. You should read the official website 
 first before reading this. This document is designed to cover everyone 
 from corporate *suits* and 17 year old smelly geek types, so while some 
 of the advice seems obvious to you, it might not to others.
 
-Please email me with corrections.
+Please email me with any suggested updates or submit a pull request to the [git rrepo for this site](https://github.com/slyall/www-darkmere)
+
+Note: This document was preiously known as the *Linux.conf.au: First timers Guide*
 
 ## What was new(ish) / different in 2017
 * No Swag Bag
