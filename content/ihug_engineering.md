@@ -14,7 +14,7 @@ Alongside is what they were doing at the start of 2005 and in mid-2017.
 |Name   |Employed (up to 2005)	| Where in 2005 |	Where in 2017 |
 |---	|---	|---	|---	|
 |Craig Whitmore   	|1995-1997	|Systems Administrator at Orcon	| Engineer at Vodafone Next Generation Services
-|Jort Bloem   	|1994-2004	|Contracting	| ?
+|Jort Bloem   	|1994-2004	|Contracting	| Developer / Technical Engineer at BGT
 |Karl Stephens   	|1994-1996	|Contractor	| IT Contractor 
 |Lawrence Mooney 	| ? 	| ?	| Mobility specialist at Datacom
 | Bart Kindt 	| 19x-20x 	| Millionaire playboy | Developing Search & Rescue software
@@ -25,8 +25,8 @@ Leon Strong 	| 1995-2000, 2001-2004 	| System Administrator at Telecom Xtra | Co
 Andrew Stephen 	| 19x-20x ? 	| ? at NZ Post	| Security Architect at Airways Corporation of New Zealand
 Nick Kean 	| 1995 - present 	| Software Development Manager for ihug	| Fixed & Broadband Technical Lead at Vodafone NZ
 Adam Moore 	| 19x-20x, 20x-20x , 2004 - present 	| Programmer at ihug	| Deceased
-David Robb 	| 1997-2001 	| Solutions Design Engineer at TelstraClear	| ?
-Matt Camp 	| 19x-20x 	| Solutions Design Engineer at TelstraClear	| Network Consultant at CloudTalent
+David Robb 	| 1997-2001 	| Solutions Design Engineer at TelstraClear	| Transport Design Engineer at Vodafone
+Matt Camp 	| 19x-20x 	| Solutions Design Engineer at TelstraClear	| CEO of AwesomeSource, UK
 Chris Rigby / Sebastian Frost	| 1997 - 2001, 2001 - present 	| Senior VOIP engineer at ihug	| Operations manager at TPG telecommunications, Australia 
 Bryan Christianson 	| 1998-2004 	| Programmer for e-mmediate Labs	| Computer Software Consultant and Contractor
 James Tyson / James Harton	| 1997-2001 	| Working for Pulse Utilities			| Developer at Rabid Tech
