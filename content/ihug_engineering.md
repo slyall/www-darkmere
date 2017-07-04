@@ -20,7 +20,7 @@ Alongside is what they were doing at the start of 2005 and in mid-2017.
 | Bart Kindt 	| 19x-20x 	| Millionaire playboy | Developing Search & Rescue software
 Mathew Oram 	| 19x-200x ? 	| Tangent ? | Consulting Network Architect & Engineer, Velocity Networks
 Anand Lal 	| 19x - present ? 	| Engineering Manager at ihug | Network Consultant, UK 
-Tim Shackelton 	| 199x-200x ? 	| IP Activations and Provisioning Engineer at TelstraClear	| ?
+Tim Shackleton 	| 199x-200x ? 	| IP Activations and Provisioning Engineer at TelstraClear	| Works at Vodafone
 Leon Strong 	| 1995-2000, 2001-2004 	| System Administrator at Telecom Xtra | Consultant at Open Systems Specialists Ltd
 Andrew Stephen 	| 19x-20x ? 	| ? at NZ Post	| Security Architect at Airways Corporation of New Zealand
 Nick Kean 	| 1995 - present 	| Software Development Manager for ihug	| Fixed & Broadband Technical Lead at Vodafone NZ
