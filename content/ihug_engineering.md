@@ -47,7 +47,7 @@ Grant Zanetti 	| 2000 - 2003 	| Systems Engineer for WorldxChange	| Systems Tech
 JSR 		| 1998 - 2002 ? | 	? at Iconz	| Senior Network Engineer at Vector Communications
 Alex Henderson 	| 19x - 1999 	| Admin at ?	| ?
 Phillip O' Donnell 	| 19x - 20x ? 	| ?	| Technical Delivery Manager at Spark Digital
-Alastair Parkkali 	| 19x-20x ? 	| University ?	| ?
+Alastair Parkkali 	| 19x-20x ? 	| University ?	| Learning & Development Manager at Verifone
 Joe Rangi 	| 19x-20x ? 	| ?	| Deceased
 Brent Addis 	| 1997 - 2002 	| Group Systems Administrator for Times Media Group | Network architect and cyber security professional, Network Service Providers
 Edward Murphy 	| 1999 - 2004 	| Systems Administrator at Proxima Technologies	| Infrastructure Manager, Kanji Group 
