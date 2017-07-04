@@ -27,9 +27,9 @@ Nick Kean 	| 1995 - present 	| Software Development Manager for ihug	| Fixed & B
 Adam Moore 	| 19x-20x, 20x-20x , 2004 - present 	| Programmer at ihug	| Deceased
 David Robb 	| 1997-2001 	| Solutions Design Engineer at TelstraClear	| ?
 Matt Camp 	| 19x-20x 	| Solutions Design Engineer at TelstraClear	| Network Consultant at CloudTalent
-Chris Rigby 	| 1997 - 2001, 2001 - present 	| Senior VOIP engineer at ihug	| ? 
+Chris Rigby / Sebastian Frost	| 1997 - 2001, 2001 - present 	| Senior VOIP engineer at ihug	| Operations manager at TPG telecommunications, Australia 
 Bryan Christianson 	| 1998-2004 	| Programmer for e-mmediate Labs	| Computer Software Consultant and Contractor
-James Tyson 	| 1997-2001 	| Working for Pulse Utilities			| Developer at Rabid Tech
+James Tyson / James Harton	| 1997-2001 	| Working for Pulse Utilities			| Developer at Rabid Tech
 Glen Wilson 	| 1997 - present 	| Operations Manager at ihug	| Lead Service Architect at Datacom
 Xris Brunton 	| 1998-2004 	| VOIP Specialist at Datacom	| Senior Solution Designer at SITA
 Simon Lyall 	| 1998 - 2004 	| System Administrator at Telecom Xtra	| DevOps Engineer, Foodstuffs North Island
@@ -38,17 +38,17 @@ Nigel Mathews 	| 19x-20x ? 	| ?	| ?
 Adam Boileau 	| 19x-20x 	| ? at Asterisk	| Principal security consultant at Insomnia Security
 Alasdair Muckart 	| 19x-20x ? 	| Solutions Design Engineer at TelstraClear	| Network Engineer, New Zealand Defence Force
 Morgan Look 	| 19x - 2002 ? 	| University of Auckland ? 	| Academic Advisor at Te Puna Ako, Unitec Institute of Technology
-Nigel Bovey 	| 19x - 20x ? 	| Network Engineer at Snap Internet	| ?
+Nigel Bovey 	| 19x - 20x ? 	| Network Engineer at Snap Internet	| Deceased
 Mike Rooney 	| 19x - 20x ? 	| ? at Tait Electronics		| IT Systems Engineer at Fusion Networks
 Tony Jennes 	| 1999 - 2000 	| Unix/Security Admin at New Zealand Assocation of Credit Unions	| Cloud/Unix Engineer at London Stock Exchange Group
 Brent Singers 	| 1999 - 2005 	| Billing Support Analyst for Hutch Telecommunications	| Project Developer at Kanji Group
 Mitch Murray 	| 1999 - 2004 	| Oracle Programmer for Hutch Telecommunications	| ?
 Grant Zanetti 	| 2000 - 2003 	| Systems Engineer for WorldxChange	| Systems Technical Lead at Vocus Communications
-JSR 		| 1998 - 2002 ? | 	? at Iconz	| ?
+JSR 		| 1998 - 2002 ? | 	? at Iconz	| Senior Network Engineer at Vector Communications
 Alex Henderson 	| 19x - 1999 	| Admin at ?	| ?
 Phillip O' Donnell 	| 19x - 20x ? 	| ?	| Technical Delivery Manager at Spark Digital
 Alastair Parkkali 	| 19x-20x ? 	| University ?	| ?
-Joe Rangi 	| 19x-20x ? 	| ?	| ?
+Joe Rangi 	| 19x-20x ? 	| ?	| Deceased
 Brent Addis 	| 1997 - 2002 	| Group Systems Administrator for Times Media Group | Network architect and cyber security professional, Network Service Providers
 Edward Murphy 	| 1999 - 2004 	| Systems Administrator at Proxima Technologies	| Infrastructure Manager, Kanji Group 
 Leon Chang 	| 20x - 2004 	| ? at BCL	| Director, IT Strategy at AT&T
@@ -67,4 +67,4 @@ Brent Martinez 	| 2003 - 2004 	| MIA	| ?
 Pshem Kowalczyk 	| 2004 - present 	| Systems Programmer at ihug	| Network and systems solution architect, 2degrees Mobile 
 Michael Zhang 	| 2004 - present 	| Senior Network Engineer at ihug	| ?
 Jon Hosken 	| 2004 - present 	| Operations Team member at ihug	| ?
-Gavin Hull 	| 2004 - present ? 	| Operations Team member at ihug	| ?
+Gavin Hull 	| 2004 - present ? 	| Operations Team member at ihug	| Voice engineer at Vodafone advanced services
