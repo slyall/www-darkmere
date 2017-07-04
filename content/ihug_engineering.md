@@ -42,7 +42,7 @@ Nigel Bovey 	| 19x - 20x ? 	| Network Engineer at Snap Internet	| Deceased
 Mike Rooney 	| 19x - 20x ? 	| ? at Tait Electronics		| IT Systems Engineer at Fusion Networks
 Tony Jennes 	| 1999 - 2000 	| Unix/Security Admin at New Zealand Assocation of Credit Unions	| Cloud/Unix Engineer at London Stock Exchange Group
 Brent Singers 	| 1999 - 2005 	| Billing Support Analyst for Hutch Telecommunications	| Project Developer at Kanji Group
-Mitch Murray 	| 1999 - 2004 	| Oracle Programmer for Hutch Telecommunications	| ?
+Mitch Murray 	| 1999 - 2004 	| Oracle Programmer for Hutch Telecommunications	| Application Architect at nbn Australia
 Grant Zanetti 	| 2000 - 2003 	| Systems Engineer for WorldxChange	| Systems Technical Lead at Vocus Communications
 JSR 		| 1998 - 2002 ? | 	? at Iconz	| Senior Network Engineer at Vector Communications
 Alex Henderson 	| 19x - 1999 	| Admin at ?	| ?
@@ -55,7 +55,7 @@ Leon Chang 	| 20x - 2004 	| ? at BCL	| Director, IT Strategy at AT&T
 Ezra Fiefield 	| 19x - 20x 	| Oracle DBA at ?	| Security Consultant at Imperva
 Paul Fittness 	| 19x - 20x ? 	| ?	| ?
 Blair Robson 	| 20x - 2004 	| Helpdesk tech at Telecom Xtra	| Helpdesk / Tech Support 
-Paul Joslin 	| 19x - present 	| Operations Team member at ihug	| ?
+Paul Joslin 	| 19x - present 	| Operations Team member at ihug	| Network design contractor in the UK
 Graeme Gibb 	| 19x - 2004 	| Travelling	| Self Employed Computer Technician
 Mark Little 	| 200x - present 	| Operations Team member at iiNet in Perth.	| ?
 Gavin Grieve 	| 200x ? - present 	| Senior Systems Administrator at ihug	| ?
