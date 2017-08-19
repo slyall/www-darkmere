@@ -17,7 +17,7 @@ something below replaced.
 
 Please email me with any suggested updates or submit a pull request to the [git repo for this site](https://github.com/slyall/www-darkmere)
 
-Note: This document was preiously known as the *Linux.conf.au: First timers Guide*
+Note: This document was previously known as the *Linux.conf.au: First timers Guide*
 
 ## What was new(ish) / different in 2017
 * No Swag Bag
@@ -27,7 +27,7 @@ Note: This document was preiously known as the *Linux.conf.au: First timers Guid
 * Free Childcare
 * PDNS is a breakfast
 * Held at Convention centre rather than University
-* Using new conference managment software ( <a href="https://github.com/pinax/symposion">Symposion</a> vs <a href="https://github.com/zookeepr/zookeepr">zookeepr</a> )
+* Using new conference management software ( <a href="https://github.com/pinax/symposion">Symposion</a> vs <a href="https://github.com/zookeepr/zookeepr">zookeepr</a> )
 
 ## Introduction
 <a href="http://Linux.conf.au/">Linux.conf.au</a> (or LCA) is a large Linux orientation conference that 
@@ -76,8 +76,8 @@ speaker said:
 > LCA treat their speakers **much** better than other conferences,
 > and this is a large part of why so many interesting people keep coming back.
 
-Have a look though the miniconfs nice and early for separate calls for
-presentations. The miniconfs usually do not or cannot publicise their CFPs
+Have a look though the Miniconfs nice and early for separate calls for
+presentations. The Miniconfs usually do not or cannot publicise their CFPs
 as widely as the main conference.
 
 ## Which days to Attend
@@ -132,9 +132,9 @@ families as they are for people coming alone or with friends. They have no
 facilities for children and couples will usually be assigned separate rooms.
 Sometimes there are options for double/large rooms with ensuites however.
 
-If the accomidation is any distance from the venue the conference will usually
+If the accommodation is any distance from the venue the conference will usually
 provide buses between the two and sometimes also to "town" (or where ever the 
-local restuarants are) and back to the accomidation in the evening.
+local restaurants are) and back to the accommodation in the evening.
 
 ### Registering
 
@@ -159,7 +159,7 @@ they should be able to arrange transport.
 are listed here is for room size allocations.
 
 3. There are usually several types of tickets. Rough prices are below. 
-There is usually a aprrox 20% discount if you register early.
+There is usually a approx 20% discount if you register early.
 
 * **Fairy Penguin sponsor** ( $1700 ) - This is designed for those who wish to attend the conference 
   as a Professional Delegate as well as supporting the conference by contributing financially.
@@ -169,8 +169,8 @@ There is usually a aprrox 20% discount if you register early.
   session plus an extra goody or two in your bag.
 * **Hobbyist** ( $300- $500 ) - Discounted rate for people paying their own way. Usually doesn't include
   Penguin dinner ticket and even less Swag.
-* **Student** ( $100 ) - The same as Hobbist but for students
-* **Miniconf-only** ( $50 -$100 ) - A pass to attend one or two miniconf days. Not offered all years
+* **Student** ( $100 ) - The same as Hobbyist but for students
+* **Miniconf-only** ( $50 -$100 ) - A pass to attend one or two Miniconf days. Not offered all years
 
 Note: Hobbyist and Concession registrations can pay an extra $80-100 to go to the penguin dinner. Anyone can also buy a ticket for a guest or two.
 
@@ -178,7 +178,7 @@ Remember the prices above are for a full 5 day conference. However if the price 
 
 * **Volunteer** ( free ) - If you want to help out on several days at the conference you can attend for free. Note you'll usually 
   have to come a couple of days early to help setup. A call for Volunteers will usually be sent out around the time of registrations
-* **Assistence** ( free or discounted ) - In many years there are a few funded tickets to attend LCA. These vary each year and 
+* **Assistance** ( free or discounted ) - In many years there are a few funded tickets to attend LCA. These vary each year and 
   may be targeted towards students, diversity, regions or otherwise. Check the website or contact the organisers for advice.
 
 4. Don't forget your T-shirt size and sign up for the attendees mailing 
@@ -201,7 +201,7 @@ qualified child carers on-site at the conference venue. Places are usually limit
 you should register early.
 
 In the past a partners programme was run for partners of attendees who were in town
-but who did't want to attended a multi-day Linux conference but want something to
+but who didn't want to attended a multi-day Linux conference but want something to
 do in the city during the conference. This has not been run for a couple of years however.
 
 ### Visas
@@ -222,8 +222,8 @@ can produce a letter for Department of Immigration documenting you are
 attending the conference if this is required.
 
 Once you are in Australia you do not need further Visas to travel anywhere 
-including Tasmania. However New Zealand is an independant country and has
-seperate immigration requirements.
+including Tasmania. However New Zealand is an independent country and has
+separate immigration requirements.
 
 See <a href="http://www.immigration.govt.nz/migrant/stream/visit/">the NZ
 immigration website</a> for requirements to visit New Zealand, if the
@@ -239,11 +239,11 @@ Note that it takes days rather than hours to drive between Australian state
 capitals and in the case of Tasmania (the site of LCA 2017) you need to fly
 or catch an ocean going ferry to the island.
 
-In most cases overseas vistors will fly into Sydney or Melbourne and from 
+In most cases overseas visitors will fly into Sydney or Melbourne and from 
 there can fly to the city of the conference.
 
 The conference often hires buses from the airport to the conference venue or 
-accomidation. Or you can arrange to share a taxi with other attendees. Usually 
+accommodation. Or you can arrange to share a taxi with other attendees. Usually 
 people put their flight details into the Wiki to help coordinate this.
 
 ### What to Bring
@@ -361,7 +361,7 @@ Having a laptop is very useful but not required and a few people don't bother.
 If you normally carry laptop you should probably bring it. Also, bringing extra
 batteries is a good idea. Access to a power points is limited, and sometimes nil
 in the theatres. Many people bring extension cords and double adaptors or
-powerboards to try to get around this; it might work. If you are from outside
+power-boards to try to get around this; it might work. If you are from outside
 Australia then check to see what adapters you need to use the local power.
 
 If you do bring a laptop remember try not to spend all your time online 
@@ -412,8 +412,8 @@ if your comment is likely to be useful to everyone (and reply directly if not).
 
 ### Social Media
 
-The majority of scoial media activity currently (2017) takes place on twitter, however
-people will also use facebook and reddit.
+The majority of social media activity currently (2017) takes place on twitter, however
+people will also use Facebook and reddit.
 
 If you want to blog or tweet about LCA while your attend you should use the 
 recommended keywords (usually **linux.conf.au** and **lca&lt;year&gt;** ) 
@@ -578,7 +578,7 @@ beer and food. Soft drinks and cheaper beers will be covered by their tab.
 ### Penguin Dinner
 
 The is the main diner and is a large sit down dinner held at a 
-nearby venue. Choice of food is usually limited, plus there will be special items for vegitarians etc. Here is a menu from 2007:
+nearby venue. Choice of food is usually limited, plus there will be special items for vegetarians etc. Here is a menu from 2007:
 
 ![2007 Menu](/menu_2017.jpg "Menu from 2007")
 
@@ -635,7 +635,7 @@ later.
 Don't talk nerd all the time. Talk to people about politics, geography, 
 traffic lights or artificial sweeteners.
 
-Avoid immature behavour, most of the people at the conference are grown adults 
+Avoid immature behaviour, most of the people at the conference are grown adults 
 with jobs. Some of them might have children your age, be your future boss or
 name and shame you on a blog that is read by thousands of people in your
 industry of choice. Jokes or activities that are funny around your friends
@@ -685,7 +685,7 @@ the photos are of the new wing overlooking the park.
 * A lot of people own Thinkpads or Macs
 * Some people run Windows on the computers, usually because it's a company laptop and they have to.
 * Some people at the conference will be different from you, try to leave your hangups at home.
-* The conference hashtag clashes with other events, most notibly you may see NSFW tweets related to the <a href="http://livecamawards.com/">Live Cam Awards</a>
+* The conference hashtag clashes with other events, most notably you may see NSFW tweets related to the <a href="http://livecamawards.com/">Live Cam Awards</a>
 
 # Thanks to
 
