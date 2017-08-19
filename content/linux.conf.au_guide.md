@@ -8,7 +8,7 @@ title="The (Unofficial) Linux.conf.au Guide"
 Please note this document is not an official publication of Linux Australia 
 or the Linux.conf.au Organisers. You should read the official website 
 first before reading this. This document is designed to cover everyone 
-from corporate *suits* and 17 year old smelly geek types, so while some 
+from corporate suits and 17 year old smelly geek types, so while some 
 of the advice seems obvious to you, it might not to others.
 
 Please email me with any suggested updates or submit a pull request to the [git repo for this site](https://github.com/slyall/www-darkmere)
@@ -78,7 +78,7 @@ as widely as the main conference.
 
 ## What days to Attend
 
-In the last few years the conference has run from Monday morning to either Friday evening.
+In the last few years the conference has run from Monday morning to Friday evening.
 
 In the programme the Monday and Tuesday are given over to Miniconfs 
 which are themed streams covering things like Security, Kernel, Systems 
@@ -87,8 +87,7 @@ Administration and Open Hardware.
 You should really attend at least Monday though Friday. Many first timers
 make the mistake of skipping the Miniconfs and find they have missed out on
 half the conference. The whole week is filled with opportunities to make
-friends and learn interesting stuff, and there may also be lightning talks
-or 'best of conference' repeats on open day.
+friends and learn interesting stuff.
 
 To catch everything you should probably arrive during the day on Sunday 
 and leave on Saturday. This gives you time to get settled in on Sunday 
@@ -110,8 +109,8 @@ in the same area. Keep an eye open for these also.
 LCA is usually held at a University, and usually during the January summer
 holidays so the main accommodation option is student halls. These are
 cheap ( $60 - $90 per day ) rooms, usually single with shared facilities
-although better options can be available. Breakfast is usually
-included in an attached dining hall.
+although better options can be available. Breakfast is usually included
+in an attached dining hall.
 
 The main thing to remember is that while things are a little spartan you will 
 not be doing much more than sleeping in the room. The big advantage is 
@@ -128,6 +127,10 @@ Unfortunately the student dorms are usually not as suitable for couples or
 families as they are for people coming alone or with friends. They have no
 facilities for children and couples will usually be assigned separate rooms.
 Sometimes there are options for double/large rooms with ensuites however.
+
+If the accomidation is any distance from the venue the conference will usually
+provide buses between the two and sometimes also to "town" (or where ever the 
+local restuarants are) and back to the accomidation in the evening.
 
 ### Registering
 
@@ -154,7 +157,7 @@ are listed here is for room size allocations.
 3. If you go for professional then you get your main conference dinner 
 included in the price and you get to go to the professional networking 
 session plus an extra goody or two in your bag. Hobbyist and Concession 
-registrations can pay an extra $60-100 to go to the penguin dinner. 
+registrations can pay an extra $80-100 to go to the penguin dinner. 
 You can also buy a ticket for a guest or two.
 
 4. Don't forget your T-shirt size and sign up for the attendees mailing 
@@ -255,6 +258,7 @@ However cold weather can happen so you might wish to pack at least one set
 of warm clothes, and a warm jacket.
 
 ### Signing In
+
 Sometimes there will be signs or chalked arrows between the accommodation and
 the registration desk helping you find it. If not a printed map may be useful
 the first time or follow the pack.
@@ -313,6 +317,9 @@ coloured shirt from normal attendees.
 If you have problems go to the registration desk for advice. If possible talk
 to the "helpers" rather than the core organisers.
 
+The conference has a culture of everybody helping out, offers to lend a hand will 
+usually be appreciated.
+
 ## Online
 
 Online aspects of the conference
@@ -341,9 +348,9 @@ will notice if somebody else picks it up.
 
 ### Wifi
 
-The conference and Halls should have Wifi in most areas. Details on this 
+The conference and halls should have Wifi in most areas. Details on this 
 should be in your registration pack and/or online. Remember to be careful 
-with security of your wireless connection. Wired access may not be available. 
+with security of your wireless connection. Wired access may not be available.
 
 Attempting to crack the conference network or other people's computers 
 will result in you being thrown out of the conference or even arrested.
@@ -355,7 +362,7 @@ there will usually be a channel for each room to which people can post a
 commentary or questions. #linux.conf.au on freenode is usually the main 
 channel. 
 
-<a href="matrix.org">Matrix</a> is being used in 2017 and some people are also on slack.
+<a href="matrix.org">Matrix</a> is being used in 2017 and some people are also on Slack.
 
 
 ### Websites
@@ -387,7 +394,6 @@ If you want to blog or tweet about LCA while your attend you should use the
 recommended keywords (usually "linux.conf.au" and "lca&lt;year&gt;"" ) 
 
 
-
 ## The Conference itself
 
 The conference will usually run for 5-6 days (Monday to Friday or 
@@ -416,14 +422,14 @@ events LCA doesn't get keynote or other speaking slots to sponsors so they tend 
 than average.
 
 After the welcome/keynote the conference will split into several talks 
-in each time slot.
+in each time slot. Around five parallel sessions are usually running.
 
 ### Miniconfs
 
 Monday and Tuesday are Miniconf days. What happens is that a group apply 
 to run a programme for a day (longer or shorter periods might happen)
-and the LCA organisers give them a room to run this in. The programmes for the 
-Miniconf sessions will usually be designed to appeal to people 
+and the LCA organisers give them a room to run this in. The programmes
+for the Miniconf sessions will usually be designed to appeal to people 
 interested in the topic with say someone who is a Gnome developer only 
 attending that Miniconf.
 
@@ -432,7 +438,7 @@ their interest in the individual talks and events.
 
 Miniconfs can be quite different. Each may be one of a combination of 
 tutorials teaching attendees how to build something, un-conferences, workshops, 
-panels, hacking sessions or prepared talks, 
+panels, hacking sessions or prepared talks.
 
 ### Normal Talks
 
@@ -441,7 +447,7 @@ make up the main part of the programme. There will normally be 4-6 going
 on at once so usually there will be at least one of interest.
 
 If this is your first time at the conference it's a good idea to chat
-with some old-timers about which talks they are going to.  Sometimes
+with some old-timers about which talks they are going to. Sometimes
 the most arcane and uninteresting sounding topics will actually turn
 out to be the most mindblowing, the funniest or the most educational.
 
@@ -536,7 +542,7 @@ it is just light food and drinks at a nicer venue.
 Professional delegates are invited to all get together at a venue and 
 "Network". Nibbles and drinks are provided. There is usually also an 
 "Un-Professional delegates Networking Session" which is a less-formal
-alternative.
+alternative (usually a BBQ)
 
 ### Conference Party
 
@@ -550,10 +556,8 @@ nearby venue. Choice of food is usually limited, plus there will be special item
 
 ![2007 Menu](/menu_2017.jpg "Menu from 2007")
 
-<a href="http://www.darkmere.gen.nz/photos/lca2007/P1190174.JPG"><img src="http://www.darkmere.gen.nz/photos/lca2007/medium/P1190174.JPG"  WIDTH="400" HEIGHT="300" ALT="Menu - click for larger size" ></a>
-
 In the past there were speeches, charity auctions and the like. However in recent
-yeas these have been mostly moved to the wrap-up session to the dinner tends to be
+yeas these have been mostly moved to the wrap-up session so the dinner tends to be
 a bit more streamlined.
 
 No rules are set in stone, though.  The 2008 conference dinner was held
@@ -567,7 +571,7 @@ From Sunday evening though Saturday evening ad hoc dinners will be
 arranged on days when nothing official is arranged or by those not going 
 to that night's official dinner.
 
-You should keep an eye on wiki, IRC and mailing lists to find what
+You should keep an eye on the wiki, IRC and mailing lists to find what
 is happening or alternatively ask suspicious looking groups
 of attendees. Saying you're new will no doubt get invites, not 
 laughter - we're friendly.
@@ -636,7 +640,6 @@ overdo it in either direction, though: your own ideas and opinions are more
 likely to be thoughtfully discussed than to be ridiculed out of hand.
 
 
-
 ## Misc
 
 Other stuff
@@ -681,5 +684,4 @@ Original author and maintainer <a href="http://www.simonlyall.com">Simon Lyall</
 * Joshua Hesketh and the LCA 2009 team
 * Chris Neugebauer
 * Michael C. Harris
-
 
