@@ -6,10 +6,14 @@ title="The (Unofficial) Linux.conf.au Guide"
 +++
 
 Please note this document is not an official publication of Linux Australia 
-or the Linux.conf.au Organisers. You should read the official website 
+or the Linux.conf.au Organisers. You should read the [official website](https://linux.conf.au) 
 first before reading this. This document is designed to cover everyone 
 from corporate suits and 17 year old smelly geek types, so while some 
 of the advice seems obvious to you, it might not to others.
+
+Note: The conference changes a little every year as a new team tries out some new ideas
+and drops from those from previous years they don't like. So don't be surprised to see
+something below replaced.
 
 Please email me with any suggested updates or submit a pull request to the [git repo for this site](https://github.com/slyall/www-darkmere)
 
@@ -53,7 +57,7 @@ rather than have them find out the hard way.
 
 A call for papers will usually be issued sometime in July with a 
 deadline of around 2 months later. Competition is pretty tough and only 
-about 20% of proposals are accepted. Here are some blog posts for people 
+about 20%-30% of proposals are accepted. Here are some blog posts for people 
 of the programme committee(s) to give you an some tips on getting accepted:
 
 * <a href="http://www.mega-nerd.com/erikd/Blog/lca2007_review_committee.html">LCA 2007 Paper Review Committee.</a>
@@ -76,7 +80,7 @@ Have a look though the miniconfs nice and early for separate calls for
 presentations. The miniconfs usually do not or cannot publicise their CFPs
 as widely as the main conference.
 
-## What days to Attend
+## Which days to Attend
 
 In the last few years the conference has run from Monday morning to Friday evening.
 
@@ -154,11 +158,28 @@ they should be able to arrange transport.
 2. You can mix and match Miniconfs at any point, the main reason they 
 are listed here is for room size allocations.
 
-3. If you go for professional then you get your main conference dinner 
-included in the price and you get to go to the professional networking 
-session plus an extra goody or two in your bag. Hobbyist and Concession 
-registrations can pay an extra $80-100 to go to the penguin dinner. 
-You can also buy a ticket for a guest or two.
+3. There are usually several types of tickets. Rough prices are below. 
+There is usually a aprrox 20% discount if you register early.
+
+* **Fairy Penguin sponsor** ( $1700 ) - This is designed for those who wish to attend the conference 
+  as a Professional Delegate as well as supporting the conference by contributing financially.
+* **Professional** ( $800-$1000 ) - The standard conference rate, This rate applies to most people 
+  who have their companies pay the conference fees. Professional get your main conference dinner 
+  included in the price and you get to go to the professional networking 
+  session plus an extra goody or two in your bag.
+* **Hobbyist** ( $300- $500 ) - Discounted rate for people paying their own way. Usually doesn't include
+  Penguin dinner ticket and even less Swag.
+* **Student** ( $100 ) - The same as Hobbist but for students
+* **Miniconf-only** ( $50 -$100 ) - A pass to attend one or two miniconf days. Not offered all years
+
+Note: Hobbyist and Concession registrations can pay an extra $80-100 to go to the penguin dinner. Anyone can also buy a ticket for a guest or two.
+
+Remember the prices above are for a full 5 day conference. However if the price is still too much other options include:
+
+* **Volunteer** ( free ) - If you want to help out on several days at the conference you can attend for free. Note you'll usually 
+  have to come a couple of days early to help setup. A call for Volunteers will usually be sent out around the time of registrations
+* **Assistence** ( free or discounted ) - In many years there are a few funded tickets to attend LCA. These vary each year and 
+  may be targeted towards students, diversity, regions or otherwise. Check the website or contact the organisers for advice.
 
 4. Don't forget your T-shirt size and sign up for the attendees mailing 
 list. It can get a little busy (perhaps 700 messages across the 
@@ -220,6 +241,10 @@ or catch an ocean going ferry to the island.
 
 In most cases overseas vistors will fly into Sydney or Melbourne and from 
 there can fly to the city of the conference.
+
+The conference often hires buses from the airport to the conference venue or 
+accomidation. Or you can arrange to share a taxi with other attendees. Usually 
+people put their flight details into the Wiki to help coordinate this.
 
 ### What to Bring
 
@@ -305,9 +330,9 @@ A large gallery of [badges from 2017](https://www.flickr.com/photos/simonlyall/s
 ### Organisers
 
 Each year LCA is held in a different city with a completely different 
-set of organisers. Usually there will about half a dozen "hard core" 
+set of organisers. Usually there will about half a dozen *hard core* 
 people running around and not having any fun plus about dozen or two 
-"helpers" manning the desks, looking after rooms, filming and otherwise 
+*helpers* manning the desks, looking after rooms, filming and otherwise 
 doing the boring stuff that makes your conference fun.
 
 These people are all unpaid volunteers who miss out on most of the 
@@ -315,7 +340,7 @@ conference so be nice to them. Usually they will be in a different
 coloured shirt from normal attendees.
 
 If you have problems go to the registration desk for advice. If possible talk
-to the "helpers" rather than the core organisers.
+to the helpers rather than the core organisers.
 
 The conference has a culture of everybody helping out, offers to lend a hand will 
 usually be appreciated.
@@ -391,7 +416,7 @@ The majority of scoial media activity currently (2017) takes place on twitter, h
 people will also use facebook and reddit.
 
 If you want to blog or tweet about LCA while your attend you should use the 
-recommended keywords (usually "linux.conf.au" and "lca&lt;year&gt;"" ) 
+recommended keywords (usually **linux.conf.au** and **lca&lt;year&gt;** ) 
 
 
 ## The Conference itself
@@ -410,14 +435,15 @@ question.
 
 A Welcome will be held on most mornings in the main hall. The event 
 organisers will welcome everybody, say any announcements, etc and then 
-either go to the first sessions or a conference keynote.
+either go to the first sessions or a conference keynote. Usually there is a
+conference opening on one day and keynotes on the other four days.
 
 Do not skip this. Starting in 2005 the conference has during some of the 
 welcome sessions drawn a name from the attendees and given the person 
 drawn a new laptop or similar prize. If the person isn't there then 
 another name is drawn until somebody present is found. 
 
-The keynotes are usually by a "Big Name" person and tend to be fairly good. Unlike other
+The keynotes are usually by a **Big Name** person and tend to be fairly good. Unlike other
 events LCA doesn't get keynote or other speaking slots to sponsors so they tend to be better
 than average.
 
@@ -559,11 +585,6 @@ nearby venue. Choice of food is usually limited, plus there will be special item
 In the past there were speeches, charity auctions and the like. However in recent
 yeas these have been mostly moved to the wrap-up session so the dinner tends to be
 a bit more streamlined.
-
-No rules are set in stone, though.  The 2008 conference dinner was held
-at the Victoria Markets in Melbourne as a general free-for-all social
-evening with no speeches, awards or auctions, some of which were moved to
-the Open Day on Saturday.
 
 ### Ad hoc dinners</h3>
 
