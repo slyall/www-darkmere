@@ -15,7 +15,7 @@ Note: The conference changes a little every year as a new team tries out some ne
 and drops from those from previous years they don't like. So don't be surprised to see
 something below replaced.
 
-Please email me with any suggested updates or submit a pull request to the [git repo for this site](https://github.com/slyall/www-darkmere)
+Please email me (Simon Lyall) with any suggested updates or submit a pull request to the [git repo for this site](https://github.com/slyall/www-darkmere)
 
 Note: This document was previously known as the *Linux.conf.au: First timers Guide*
 
