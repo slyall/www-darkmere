@@ -16,9 +16,17 @@ The Bladestroller and Domestic Blindness pages are unlikely to change but
 if you have updates for the other two pages please email me or submit a pull
 request. Both of those pages are in markdown format in the /content directory.
 
-Todo:
+## Todo
+
 * I'm also planning to setup this site to deploy via travis
 * Update logo
 * Go though old site and copy any additional pages or photos
 * Add more links
 * Update the front page some more with info on what is here.
+
+## Howto build manually
+
+cd ~/repos/www-darkmere
+hugo
+rsync -va public/ usenet.net.nz:/var/www/www.darkmere.gen.nz/html/
+
