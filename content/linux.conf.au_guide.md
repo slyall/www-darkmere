@@ -15,7 +15,7 @@ Note: The conference changes a little every year as a new team tries out some ne
 and drops from those from previous years they don't like. So don't be surprised to see
 something below replaced.
 
-Please email me with any suggested updates or submit a pull request to the [git repo for this site](https://github.com/slyall/www-darkmere)
+Please email me (Simon Lyall) with any suggested updates or submit a pull request to the [git repo for this site](https://github.com/slyall/www-darkmere)
 
 Note: This document was previously known as the *Linux.conf.au: First timers Guide*
 
@@ -329,11 +329,14 @@ A large gallery of [badges from 2017](https://www.flickr.com/photos/simonlyall/s
 
 ### Organisers
 
-Each year LCA is held in a different city with a completely different 
-set of organisers. Usually there will about half a dozen *hard core* 
-people running around and not having any fun plus about dozen or two 
-*helpers* manning the desks, looking after rooms, filming and otherwise 
-doing the boring stuff that makes your conference fun.
+LCA is ultimately controlled by [Linux Australia](http://linux.org.au) but
+(much like the Olympics) it is award to a different city each year with a
+completely different set of organisers.
+
+Usually there will about half a dozen *hard core* people running around and
+not having any fun plus about twenty or so *helpers* manning the desks,
+looking after rooms, filming and otherwise doing the boring stuff that
+makes your conference fun.
 
 These people are all unpaid volunteers who miss out on most of the 
 conference so be nice to them. Usually they will be in a different 
