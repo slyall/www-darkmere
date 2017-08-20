@@ -26,7 +26,7 @@ request. Both of those pages are in markdown format in the /content directory.
 
 ## Howto build manually
 
-cd ~/repos/www-darkmere
-hugo
+cd ~/repos/www-darkmere <br>
+hugo <br>
 rsync -va public/ usenet.net.nz:/var/www/www.darkmere.gen.nz/html/
 
