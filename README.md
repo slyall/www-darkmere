@@ -3,7 +3,7 @@ www.darkmere.gen.nz Website
 
 [Hugo](http://gohugo.io) based version of this website. Currently using the [Hyde-y](https://themes.gohugo.io/hyde-y/) theme
 
-This replaces the shell-scipt based version I originally created in 1999(!). 
+This replaces the shell-script based version I originally created in 1999(!). 
 
 I've not created any new pages here since 2007 but there are a few pages I wanted to keep:
 
