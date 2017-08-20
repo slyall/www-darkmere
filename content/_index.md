@@ -28,7 +28,7 @@ the operations and networking departments and where they were in 2005 and 2017.
 
 ### [Bladestroller](/bladestroller/)
 
-A page about the obscure movie remix of Bladerunner and Mary Poppins.
+A page about the obscure movie remix of Blade Runner and Mary Poppins.
 
 ### [Domestic Blindness](/domestic_blindness.html)
 
