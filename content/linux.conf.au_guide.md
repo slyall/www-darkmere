@@ -133,7 +133,7 @@ facilities for children and couples will usually be assigned separate rooms.
 Sometimes there are options for double/large rooms with ensuites however.
 
 If the accommodation is any distance from the venue the conference will usually
-provide buses between the two and sometimes also to "town" (or where ever the 
+provide buses between the two and sometimes also to *town* (or where ever the 
 local restaurants are) and back to the accommodation in the evening.
 
 ### Registering
@@ -265,7 +265,7 @@ Besides the usual travel stuff you might need:
 ### Dress Code
 
 Dress code for the conference is casual for all events. Most people wear 
-a T-shirt, jeans or shorts and casual footwear. "Smart Casual" puts you 
+a T-shirt, jeans or shorts and casual footwear. *Smart Casual* puts you 
 in the top 10 percent, a suit and tie is way over dressed.
 
 Don't go too casual however. The conference is not the beach and you 
@@ -297,7 +297,7 @@ larger sizes) or other sponsored items, so getting in early can secure yours.
 
 When you sign in you will receive a bag with various stuff inside like 
 pens, paper, toys, a conference guidebook, and advertising along with 
-your conference T-shirt (better each year) and badge. The size of this varies
+your conference T-shirt (better each year) and badge. The size of the bag varies
 from year to year and has generally been decreasing of recent years as attendees
 have indicated they prefer the conference budget to be spent elsewhere.
 
@@ -308,7 +308,7 @@ conference area.
 
 There are three main parts of the Badge. 
 
-The top search includes the conference logo and some other information used by
+The top section includes the conference logo and some other information used by
 the organisers:
 
 * Your ticket type ( Professional, Speaker, Hobbyist, etc)
@@ -380,8 +380,8 @@ The conference and halls should have Wifi in most areas. Details on this
 should be in your registration pack and/or online. Remember to be careful 
 with security of your wireless connection. Wired access may not be available.
 
-Attempting to crack the conference network or other people's computers 
-will result in you being thrown out of the conference or even arrested.
+Attempting to crack the conference network or other people's computers will result
+in you being thrown out of the conference or even reported to the police.
 
 ### Chat platforms
 
@@ -533,7 +533,7 @@ This is usually on the Friday afternoon and held in the main hall. It usually co
 
 * Some competition winners will be announced
 * The organisers and volunteers will be thanked, The head organiser(s) are usually gets a gift from the speakers.
-* The "Rusty Wrench Award" may be presented, although this sometimes happens at another time.
+* The **Rusty Wrench Award** may be presented, although this sometimes happens at another time.
 * The Venue for the conference in 2 years time may be briefly announced
 * Next Year's conference organisers will do a presentation.
 
@@ -562,15 +562,15 @@ you wish to drink alcohol.
 ### Speaker's Dinner
 
 All official speakers are invited by the organisers to a dinner in order 
-to meet each other. Sometimes this has an "Adventure" element. eg 2007 
+to meet each other. Sometimes this has an *Adventure* or bonding element, eg 2007 
 there was a speaker at the speaker's dinner giving tips on presentations. Usually
 it is just light food and drinks at a nicer venue.
 
 ### Professional Networking
 
 Professional delegates are invited to all get together at a venue and 
-"Network". Nibbles and drinks are provided. There is usually also an 
-"Un-Professional delegates Networking Session" which is a less-formal
+*Network*. Nibbles and drinks are provided. There is usually also an 
+*Un-Professional delegates Networking Session* which is a less-formal
 alternative (usually a BBQ)
 
 ### Conference Party
@@ -671,19 +671,18 @@ Other stuff
 * Keep an eye open for a newcomers session. They are often held on the Sunday.
 * The Wireless often won't work on the first day and some of the halls will 
 always have blackspots.
-* A lot of attendees at the conference work for Hewlett Packard. 
+* A lot of attendees at the conference work for Hewlett Packard or Redhat 
 * Don't just go to stuff you know about
 * Not everybody is an unfit geek, many conference people are into cycling, 
 martial arts, or other physical activities, if you want to do these send 
 email to the mailing lists.
-* The above probably doesn't include "romantic" activities.
 * The main organiser will usually start acting odd under the pressure after
 a few days.
 * There have been problems with outbreaks of illness or food poisoning in the past, be sensible. 
 * People will often wear shirts from previous years to show they have
 been coming to the conference forever. 
 * The accommodation venues always carefully take photos to look nice. In 
-reality you'll be staying in the "old" wing next to the busy road while 
+reality you'll be staying in the *old wing* next to the busy road while 
 the photos are of the new wing overlooking the park.
 * A lot of people own Thinkpads or Macs
 * Some people run Windows on the computers, usually because it's a company laptop and they have to.
