@@ -19,6 +19,19 @@ Please email me (Simon Lyall) with any suggested updates or submit a pull reques
 
 Note: This document was previously known as the *Linux.conf.au: First timers Guide*
 
+## New / different in 2018 (thanks to Bruce & James)
+* It's a Big City LCA, in the heart of the city. A few minutes walk from Central Station, on major bus route trunks from the inner west
+* The dorms are 15-30 minutes away 
+* LCA has arranged for late-night access to common areas in the University, so people who want to hack socially into the night can stay at the uni
+* Most of the events will be within walking distance of the campus - expect fewer shuttle buses
+* No catered lunches - but there are 3 major shopping center food courts within 10 minutes walk, as well as many many dining options along the way
+* We intend to provide childcare; it won't be onsite, and we don't have cost or location details yet, but it's something we're working on as a priority
+* We are offering those who submitted papers a little token of thanks in their schwag bags if they attend.
+* The Friday is on a public holiday in Australia. As a result there will be a number of shops not open and changes to public transport timetables.
+On the plus side there are activities all around the city and in the suburbs in commemoration of the day.
+* We will have volunteers at the airport to help direct people to the right train lines to get them in to the city at peak arrival times (please use the
+arrivals page on the wiki!). There wont be a dedicated LCA bus as some years have done.
+
 ## What was new(ish) / different in 2017
 * No Swag Bag
 * Lunch is catered
