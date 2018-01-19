@@ -1,4 +1,4 @@
-baseURL = "http://www.darkmere.gen.nz/"
+baseURL = "https://www.darkmere.gen.nz/"
 title = "Darkmere Private Access Internet"
 # MetaDataFormat = "toml"
 theme = "hyde-y"
