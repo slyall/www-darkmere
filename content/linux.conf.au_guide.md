@@ -570,7 +570,7 @@ In the evening there are various dinners planned. There will usually be
 time between the last session of the day and when these start to go back 
 to the halls and get changed or cleaned up. You will need photo ID in an
 acceptable form (Passport, Driver's licence/permit, POA card or Keypass)
-you wish to drink alcohol.
+if you wish to drink alcohol.
 
 ### Speaker's Dinner
 
