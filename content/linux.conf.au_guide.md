@@ -1,9 +1,31 @@
 +++
 author="Simon Lyall"
-date=2017
+date=2018
 linktitle="(Unofficial) Linux.conf.au Guide"
 title="The (Unofficial) Linux.conf.au Guide"
 +++
+
+## Introduction
+<a href="http://Linux.conf.au/">Linux.conf.au</a> (or LCA) is a large Linux orientation conference that 
+takes place in Australia each year, usually in late January. The next 
+LCA will take place in Christchurch, New Zealand from the 21nd to the 25th of January 2019. Around 500-800 people attend each year.
+
+While the conference originally had a very stong Linux flavour these days
+around half the content is not directly related to Linux, although it is 
+usually Open Source related. Topics like programming, tools and managing 
+communities are commonly covered. Please look at a <a href="https://lca2018.linux.org.au/schedule/">recent conference schedule</a> to
+get a feel for what is on offer.
+
+I've attended ten LCAs so far and I really enjoy the conference, it is 
+a great way to learn new stuff, meet interesting people, network and 
+generally get twice as much out of a week as you normally do.
+
+Shortly after attending LCA 2007 in Sydney I read some blogs entries of 
+those who attended and realised that many people who attended for the 
+first time don't quite know what to expect and so didn't get as much out of 
+the conference as they could have. I thought I'd write a little guide to 
+hopefully give some future first timers some information beforehand 
+rather than have them find out the hard way.
 
 Please note this document is not an official publication of Linux Australia 
 or the Linux.conf.au Organisers. You should read the [official website](https://linux.conf.au) 
@@ -18,6 +40,7 @@ something below replaced.
 Please email me (Simon Lyall) with any suggested updates or submit a pull request to the [git repo for this site](https://github.com/slyall/www-darkmere)
 
 Note: This document was previously known as the *Linux.conf.au: First timers Guide*
+
 
 ## New / different in 2018 (thanks to Bruce & James)
 * It's a Big City LCA, in the heart of the city. A few minutes walk from Central Station, on major bus route trunks from the inner west
@@ -41,28 +64,6 @@ arrivals page on the wiki!). There wont be a dedicated LCA bus as some years hav
 * PDNS is a breakfast
 * Held at Convention centre rather than University
 * Using new conference management software ( <a href="https://github.com/pinax/symposion">Symposion</a> vs <a href="https://github.com/zookeepr/zookeepr">zookeepr</a> )
-
-## Introduction
-<a href="http://Linux.conf.au/">Linux.conf.au</a> (or LCA) is a large Linux orientation conference that 
-takes place in Australia each year, usually in late January. The next 
-LCA will take place in Sydney, Australia from the 22nd to the 26th of January 2018. Around 500-800 people attend each year.
-
-According to Wikipedia:
-
-> The conference is one of three major, international, grass-roots 
-> open-source conferences world wide. The other two are the Ottawa Linux 
-> Symposium (commonly known as OLS) and Linux Kongress.
-
-I've attended ten LCAs so far and I really enjoy the conference, it is 
-a great way to learn new stuff, meet interesting people, network and 
-generally get twice as much out of a week as you normally do.
-
-Shortly after attending LCA 2007 in Sydney I read some blogs entries of 
-those who attended and realised that many people who attended for the 
-first time don't quite know what to expect and so didn't get as much out of 
-the conference as they could have. I thought I'd write a little guide to 
-hopefully give some future first timers some information beforehand 
-rather than have them find out the hard way.
 
 ## Beforehand
 
@@ -125,7 +126,7 @@ in the same area. Keep an eye open for these also.
 
 LCA is usually held at a University, and usually during the January summer
 holidays so the main accommodation option is student halls. These are
-cheap ( $60 - $90 per day ) rooms, usually single with shared facilities
+cheap ( $60 - $100 per day ) rooms, usually single with shared facilities
 although better options can be available. Breakfast is usually included
 in an attached dining hall.
 
@@ -153,7 +154,7 @@ local restaurants are) and back to the accommodation in the evening.
 
 There are a few tricks to the registration form.
 
-1. Don't forget to specify any dietary requirements, the main conference 
+1 Don't forget to specify any dietary requirements, the main conference 
 dinners tend to have limited menus so if you are vegetarian, vegan or 
 whatever you need to say so here or you'll be stuck with the default. The 
 vegetarian and vegan options are usually good so you won't (generally) starve.
@@ -168,10 +169,10 @@ conference dinners are 10-20 minutes walk from the main venue, the
 accommodation may also be a similar distance. Talk to the organisers and 
 they should be able to arrange transport.
 
-2. You can mix and match Miniconfs at any point, the main reason they 
+2 You can mix and match Miniconfs at any point, the main reason they 
 are listed here is for room size allocations.
 
-3. There are usually several types of tickets. Rough prices are below. 
+3 There are usually several types of tickets. Rough prices are below. 
 There is usually a approx 20% discount if you register early.
 
 * **Fairy Penguin sponsor** ( $1700 ) - This is designed for those who wish to attend the conference 
@@ -194,15 +195,15 @@ Remember the prices above are for a full 5 day conference. However if the price 
 * **Assistance** ( free or discounted ) - In many years there are a few funded tickets to attend LCA. These vary each year and 
   may be targeted towards students, diversity, regions or otherwise. Check the website or contact the organisers for advice.
 
-4. Don't forget your T-shirt size and sign up for the attendees mailing 
+4 Don't forget your T-shirt size and sign up for the attendees mailing 
 list. It can get a little busy (perhaps 700 messages across the 
 whole week) but it can have some useful information, just filter the 
 messages into a separate folder for skimming when you have time.
 
-5. You should save and print out the registration summary in case there 
+5 You should save and print out the registration summary in case there 
 are problems later.
 
-6. Don't forget to pay, **your registration is not confirmed until you pay
+6 Don't forget to pay, **your registration is not confirmed until you pay
 the required money**. Even if you register early you can miss out because the
 conference fills up with others who have paid.
 
