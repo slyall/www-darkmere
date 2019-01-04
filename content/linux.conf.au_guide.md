@@ -1,6 +1,6 @@
 +++
 author="Simon Lyall"
-date=2018
+date=2019
 linktitle="(Unofficial) Linux.conf.au Guide"
 title="The (Unofficial) Linux.conf.au Guide"
 +++
@@ -8,7 +8,7 @@ title="The (Unofficial) Linux.conf.au Guide"
 ## Introduction
 <a href="http://Linux.conf.au/">Linux.conf.au</a> (or LCA) is a large Linux orientation conference that 
 takes place in Australia each year, usually in late January. The next 
-LCA will take place in Christchurch, New Zealand from the 21nd to the 25th of January 2019. Around 500-800 people attend each year.
+LCA will take place in Christchurch, New Zealand from the 21st to the 25th of January 2019. Around 500-800 people attend each year.
 
 While the conference originally had a very stong Linux flavour these days
 around half the content is not directly related to Linux, although it is 
@@ -16,13 +16,13 @@ usually Open Source related. Topics like programming, tools and managing
 communities are commonly covered. Please look at a <a href="https://lca2018.linux.org.au/schedule/">recent conference schedule</a> to
 get a feel for what is on offer.
 
-I've attended ten LCAs so far and I really enjoy the conference, it is 
+I've attended over a dozen LCAs and I really enjoy the conference, it is 
 a great way to learn new stuff, meet interesting people, network and 
 generally get twice as much out of a week as you normally do.
 
 Shortly after attending LCA 2007 in Sydney I read some blogs entries of 
-those who attended and realised that many people who attended for the 
-first time don't quite know what to expect and so didn't get as much out of 
+those who attended and realised that many who'd attended for the first time
+don't quite know what to expect and so didn't get as much out of 
 the conference as they could have. I thought I'd write a little guide to 
 hopefully give some future first timers some information beforehand 
 rather than have them find out the hard way.
