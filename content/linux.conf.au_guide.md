@@ -43,7 +43,7 @@ Note: This document was previously known as the *Linux.conf.au: First timers Gui
 
 ## New / different in 2018 (thanks to Steven)
 * The University of Canterbury (UC) is only a 10 minute drive from Christchurch airport.
-* The Purple Line (P) is a bus that will take you to UC and Halls of Residence from the airport [www.metroinfo.co.nz](http://www.metroinfo.co.nz). There aren't any dedicated LCA buses.
+* The Purple Line (P) is a bus that will take you to UC and Halls of Residence from the airport ( See [www.metroinfo.co.nz](http://www.metroinfo.co.nz) ) . There aren't any dedicated LCA buses.
 * Late night sessions can only be held at Bishop Julius Hall in the common room area, not on campus
 * [Student style accommodation](https://linux.conf.au/attend/accommodation/) ranges from 10-20 minutes from the main lecture theatres.
 * Most events are held on campus. The Penguin and Speakers' dinner will be off campus with buses providing transport
