@@ -41,6 +41,14 @@ Please email me (Simon Lyall) with any suggested updates or submit a pull reques
 
 Note: This document was previously known as the *Linux.conf.au: First timers Guide*
 
+## New / different in 2018 (thanks to Steven)
+* The University of Canterbury (UC) is only a 10 minute drive from Christchurch airport.
+* The Purple Line (P) is a bus that will take you to UC and Halls of Residence from the airport [www.metroinfo.co.nz](http://www.metroinfo.co.nz). There aren't any dedicated LCA buses.
+* Late night sessions can only be held at Bishop Julius Hall in the common room area, not on campus
+* [Student style accommodation](https://linux.conf.au/attend/accommodation/) ranges from 10-20 minutes from the main lecture theatres.
+* Most events are held on campus. The Penguin and Speakers' dinner will be off campus with buses providing transport
+* No catered lunches. There are many campus cafes that will be open and are a 2 minute walk from the main lecture theatres.
+* Child care is free and on site in the Jack Erskine building. You will need to pre-book if you haven’t already done so. Space is limited.
 
 ## New / different in 2018 (thanks to Bruce & James)
 * It's a Big City LCA, in the heart of the city. A few minutes walk from Central Station, on major bus route trunks from the inner west
