@@ -34,7 +34,7 @@ from corporate suits and 17 year old smelly geek types, so while some
 of the advice seems obvious to you, it might not to others.
 
 Note: The conference changes a little every year as a new team tries out some new ideas
-and drops from those from previous years they don't like. So don't be surprised to see
+and drops those from previous years they don't like. So don't be surprised to see
 something below replaced.
 
 Please email me (Simon Lyall) with any suggested updates or submit a pull request to the [git repo for this site](https://github.com/slyall/www-darkmere)
@@ -639,8 +639,8 @@ as an opportunity for you to network with all these other people.
 Remember to talk to people, Opening lines could include
 
 * Asking what sessions they have been to so far
-* asking what sessions they intend to go to later
-* Asking What their company does or what they do there.
+* Asking what sessions they intend to go to later
+* Asking what their company does or what they do there.
 
 Remember not everybody is a high-end programmer, don't be afraid to 
 talk to people if you are not an expert. Most people are happy to 
@@ -729,4 +729,6 @@ Original author and maintainer <a href="http://www.simonlyall.com">Simon Lyall</
 * Joshua Hesketh and the LCA 2009 team
 * Chris Neugebauer
 * Michael C. Harris
+* Peter Glassenbury
+* Steven Sykes
 
