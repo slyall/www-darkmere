@@ -41,7 +41,7 @@ Please email me (Simon Lyall) with any suggested updates or submit a pull reques
 
 Note: This document was previously known as the *Linux.conf.au: First timers Guide*
 
-## What was new(ish) / different in 2017
+## What was new(ish) / different in 2020
 * No Campus accomidation
 * TBD
 
