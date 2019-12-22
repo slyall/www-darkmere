@@ -8,7 +8,7 @@ title="The (Unofficial) Linux.conf.au Guide"
 ## Introduction
 <a href="http://Linux.conf.au/">Linux.conf.au</a> (or LCA) is a large Linux orientation conference that 
 takes place in Australia each year, usually in late January. The next 
-LCA will take place in Christchurch, New Zealand from the 21st to the 25th of January 2019. Around 500-800 people attend each year.
+LCA will take place on The Gold Coast, Australia from the 13th to the 17th of January 2020. Around 500-800 people attend each year.
 
 While the conference originally had a very stong Linux flavour these days
 around half the content is not directly related to Linux, although it is 
@@ -41,37 +41,9 @@ Please email me (Simon Lyall) with any suggested updates or submit a pull reques
 
 Note: This document was previously known as the *Linux.conf.au: First timers Guide*
 
-## New / different in 2019 (thanks to Steven)
-* The University of Canterbury (UC) is only a 10 minute drive from Christchurch airport.
-* The Purple Line (P) is a bus that will take you to UC and Halls of Residence from the airport ( See [www.metroinfo.co.nz](http://www.metroinfo.co.nz) ) . There aren't any dedicated LCA buses.
-* Late night sessions can only be held at Bishop Julius Hall in the common room area, not on campus
-* [Student style accommodation](https://linux.conf.au/attend/accommodation/) ranges from 10-20 minutes from the main lecture theatres.
-* Most events are held on campus. The Penguin and Speakers' dinner will be off campus with buses providing transport
-* No catered lunches. There are many campus cafes that will be open and are a 2 minute walk from the main lecture theatres.
-* Child care is free and on site in the Jack Erskine building. You will need to pre-book if you haven’t already done so. Space is limited.
-
-## New / different in 2018 (thanks to Bruce & James)
-* It's a Big City LCA, in the heart of the city. A few minutes walk from Central Station, on major bus route trunks from the inner west
-* The dorms are 15-30 minutes away 
-* LCA has arranged for late-night access to common areas in the University, so people who want to hack socially into the night can stay at the uni
-* Most of the events will be within walking distance of the campus - expect fewer shuttle buses
-* No catered lunches - but there are 3 major shopping center food courts within 10 minutes walk, as well as many many dining options along the way
-* We intend to provide childcare; it won't be onsite, and we don't have cost or location details yet, but it's something we're working on as a priority
-* We are offering those who submitted papers a little token of thanks in their schwag bags if they attend.
-* The Friday is on a public holiday in Australia. As a result there will be a number of shops not open and changes to public transport timetables.
-On the plus side there are activities all around the city and in the suburbs in commemoration of the day.
-* We will have volunteers at the airport to help direct people to the right train lines to get them in to the city at peak arrival times (please use the
-arrivals page on the wiki!). There wont be a dedicated LCA bus as some years have done.
-
 ## What was new(ish) / different in 2017
-* No Swag Bag
-* Lunch is catered
-* Freeform text fields on the badge
-* Using <a href="https://linux.conf.au/wiki/conference/chat/">Matrix for chat</a> and Slack.
-* Free Childcare
-* PDNS is a breakfast
-* Held at Convention centre rather than University
-* Using new conference management software ( <a href="https://github.com/pinax/symposion">Symposion</a> vs <a href="https://github.com/zookeepr/zookeepr">zookeepr</a> )
+* No Campus accomidation
+* TBD
 
 ## Beforehand
 
@@ -710,6 +682,41 @@ the photos are of the new wing overlooking the park.
 * Some people run Windows on the computers, usually because it's a company laptop and they have to.
 * Some people at the conference will be different from you, try to leave your hangups at home.
 * The conference hashtag clashes with other events, most notably you may see NSFW tweets related to the <a href="http://livecamawards.com/">Live Cam Awards</a>
+
+# What was different at recent LCAs?
+
+## New / different in 2019 (thanks to Steven)
+* The University of Canterbury (UC) is only a 10 minute drive from Christchurch airport.
+* The Purple Line (P) is a bus that will take you to UC and Halls of Residence from the airport ( See [www.metroinfo.co.nz](http://www.metroinfo.co.nz) ) . There aren't any dedicated LCA buses.
+* Late night sessions can only be held at Bishop Julius Hall in the common room area, not on campus
+* [Student style accommodation](https://linux.conf.au/attend/accommodation/) ranges from 10-20 minutes from the main lecture theatres.
+* Most events are held on campus. The Penguin and Speakers' dinner will be off campus with buses providing transport
+* No catered lunches. There are many campus cafes that will be open and are a 2 minute walk from the main lecture theatres.
+* Child care is free and on site in the Jack Erskine building. You will need to pre-book if you haven’t already done so. Space is limited.
+
+## New / different in 2018 (thanks to Bruce & James)
+* It's a Big City LCA, in the heart of the city. A few minutes walk from Central Station, on major bus route trunks from the inner west
+* The dorms are 15-30 minutes away 
+* LCA has arranged for late-night access to common areas in the University, so people who want to hack socially into the night can stay at the uni
+* Most of the events will be within walking distance of the campus - expect fewer shuttle buses
+* No catered lunches - but there are 3 major shopping center food courts within 10 minutes walk, as well as many many dining options along the way
+* We intend to provide childcare; it won't be onsite, and we don't have cost or location details yet, but it's something we're working on as a priority
+* We are offering those who submitted papers a little token of thanks in their schwag bags if they attend.
+* The Friday is on a public holiday in Australia. As a result there will be a number of shops not open and changes to public transport timetables.
+On the plus side there are activities all around the city and in the suburbs in commemoration of the day.
+* We will have volunteers at the airport to help direct people to the right train lines to get them in to the city at peak arrival times (please use the
+arrivals page on the wiki!). There wont be a dedicated LCA bus as some years have done.
+
+## What was new(ish) / different in 2017
+* No Swag Bag
+* Lunch is catered
+* Freeform text fields on the badge
+* Using <a href="https://linux.conf.au/wiki/conference/chat/">Matrix for chat</a> and Slack.
+* Free Childcare
+* PDNS is a breakfast
+* Held at Convention centre rather than University
+* Using new conference management software ( <a href="https://github.com/pinax/symposion">Symposion</a> vs <a href="https://github.com/zookeepr/zookeepr">zookeepr</a> )
+
 
 # Thanks to
 
