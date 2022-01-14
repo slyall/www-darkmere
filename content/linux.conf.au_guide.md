@@ -9,10 +9,10 @@ title="The (Unofficial) Linux.conf.au Guide"
 <a href="http://Linux.conf.au/">Linux.conf.au</a> (or LCA) is a large Linux orientated conference that 
 takes place in Australasia each year, usually in late January. Around 500-800 people attend each year.
 
-Due to Covid-19 the 2021 LCA will be smaller and take place online on January 23-25 2021. Much of what 
+Due to Covid-19 the 2022 LCA will be smaller and take place online on January 14-16 2022. Much of what
 is written below only applies to an in-person conference.
 
-The 2022 conference is planned to take place in-person in Canberra. 
+Hopefully The 2022 conference will be back in-person.
 
 While the conference originally had a very stong Linux flavour these days
 around half the content is not directly related to Linux, although it is 
