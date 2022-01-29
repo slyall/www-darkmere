@@ -38,6 +38,7 @@ metaDataFormat = "yaml"
 
     # Google Analytics.
     # googleAnalytics = "Your Google Analytics tracking code"
+    goatCounter = "darkmere"
 
     # Sidebar social links.
     github = "slyall" # Your Github profile ID
